@@ -1,0 +1,7 @@
+<phpunit bootstrap="bootstrap.php" backupGlobals="false">
+  <testsuites>
+    <testsuite name="helpers">
+      <file>helpers/decorator_test.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
